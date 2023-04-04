@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2829581B-72B6-4A53-A5CF-45293CB5AB9D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58DA351D-71E3-4E1E-BF6D-66A512715FBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomCellDesign/ProgressTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ProgressTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "58DA351D-71E3-4E1E-BF6D-66A512715FBF - 90a325554aef9833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomCellDesign.ProgressTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; CustomCellDesign.ProgressTableViewCell"
+                  moduleName = "CustomCellDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/canadorestudent/Documents/GitHub/CustomCellDesign/CustomCellDesign/ProgressTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "58DA351D-71E3-4E1E-BF6D-66A512715FBF - 831b949fe14af651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomCellDesign.ProgressTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CustomCellDesign.ProgressTableViewCell&gt;"
+                  moduleName = "CustomCellDesign"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/canadorestudent/Documents/GitHub/CustomCellDesign/CustomCellDesign/ProgressTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
