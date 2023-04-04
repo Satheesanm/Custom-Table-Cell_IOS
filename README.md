@@ -17,5 +17,4 @@ Switch and Label: This cell contains a switch and a label that displays the stat
 
 Textfield: This cell contains a textfield that allows the user to enter text input.
 
-
-![Uploading Simulator Screen Shot - iPhone 14 Pro - 2023-04-04 at 11.51.21.png…]()
+![Simulator Screen Shot - iPhone 14 Pro - 2023-04-04 at 11 52 11](https://user-images.githubusercontent.com/68456795/229848120-6e6724f2-7864-44a9-afd9-96121c81042e.png)
