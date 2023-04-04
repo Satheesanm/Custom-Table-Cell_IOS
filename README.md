@@ -1,4 +1,6 @@
-# Custom-Table-Cell_IOSThe table view consists of a header with the label "Assignment 3" followed by two labels, one displaying "Name" and the other displaying "ID". The header and labels are followed by custom cells with different UI components, each serving a unique purpose:
+# Custom-Table-Cell_IOS
+
+The table view consists of a header with the label "Assignment 3" followed by two labels, one displaying "Name" and the other displaying "ID". The header and labels are followed by custom cells with different UI components, each serving a unique purpose:
 
 MAD415: This cell contains a label that displays "MAD415" to identify the associated course.
 
